@@ -38,7 +38,7 @@ Get access to protected page with `GET /api/protected`, which needs JWT token.
 ## Tests
 You can test app using command line (like `curl`) or other apps (like `Postman`).
 
-Import collection (from `Tests\PostmanCollection.json`) and global variables (from `Tests\PostmanVariables`) into Postman.
+Import collection (from `Tests\PostmanCollection.json`) and global variables (from `Tests\PostmanVariables.json`) into Postman.
 
 Edit `Email`, `Password` and `Token` in global variables panel.
 
